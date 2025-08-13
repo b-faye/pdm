@@ -21,7 +21,7 @@ We also propose **s-PDM**, a supervised variant that leverages label information
 
 ```bash
 # Clone the repository
-git clone git@github.com:your-username/pdm.git
+git clone git@github.com:b-faye/pdm.git
 cd pdm
 
 # Create and activate a virtual environment
