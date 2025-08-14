@@ -141,7 +141,7 @@ def generate_and_save_images(output_dir, pipeline, accelerator, total_images=20)
 
 ## ✨ Qualitative Results
 
-![Qualitative Results](images/image.png)
+![Qualitative Results](images/image_bis.png)
 
 ---
 
